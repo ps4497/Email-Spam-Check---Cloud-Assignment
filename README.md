@@ -6,3 +6,15 @@ Task: Implement a machine learning model to predict whether a message is spam or
 
 
 Architecture Diagram:
+
+![image](https://user-images.githubusercontent.com/90670341/166801240-da714d22-8df5-4b3a-808a-a53154034e92.png)
+
+
+
+
+AWS services used:
+ 1. Amazon SageMaker
+ 2. Amazon SES
+ 3. Lambda
+ 4. Amazon S3
+ 5. Cloud Formation
